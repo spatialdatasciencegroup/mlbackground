@@ -1,0 +1,16 @@
+#Some important techniques in Machine Learning
+Basic Statistics and Probability
+1. Random variables
+2. Distributions
+3. Expectation, Variance, variable replacement
+3. Maximum Likelihood Method
+4. Hypothesis testing, p-value
+
+Machine Learning
+1. Max Likelihood, least mean square loss
+2. Expectation Maximization (EM)
+3. Variational Inference -> Variational Auto-encoder, Normalizing Flow, Invertible Neural Network
+4. Probabilistic Graphical Model: message propagation, marginlization
+5. Gradient descent (stochastic gradient descent), Chain rule
+6. Convex optimization
+
